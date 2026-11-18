@@ -1,0 +1,3 @@
+[submodule "3.Implementacao/mural-aluno-dev"]
+	path = 3.Implementacao/mural-aluno-dev
+	url = https://github.com/mpdrao/mural-aluno-dev.git
