@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+# Astah / Office temporários
+*.asta.lock
+*.lock
+~$*
+# backups locais
+*v1.asta
