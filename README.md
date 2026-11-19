@@ -14,7 +14,10 @@ Projeto final de Programação de Dispositivos Móveis (SLTPRIS 2026-2), desenvo
 | `3.Implementacao/` | Projeto do Android Studio, relatórios de código e .apk (Sprints 2 e 3) |
 | `4.Teste/` | Roteiro de Testes e resultados (Sprints 2 e 3) |
 | `5.Implantação/` | Guia de Implantação e Manual do Usuário (Sprint 3) |
+| `entrega_1/` | Artefatos da Entrega 1, na ordem pedida para a Semana 1 |
 | `6.Gerenciamento de Projeto/` | TAP, Planilha de Planejamento e Controle (Backlog do Produto, Backlog do Sprint 2, entregas, riscos), Atas |
+
+> **Entrega 1 (Sprint 1):** todos os artefatos pedidos estão organizados em [`entrega_1/`](entrega_1).
 
 ## Documentos do Sprint 1 (11/11 a 18/11/2026)
 
